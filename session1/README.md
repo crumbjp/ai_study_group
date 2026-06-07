@@ -26,8 +26,4 @@
 
 > ※「許可をバイパス」は確認なしで全コマンドを実行します。1 つずつ確認しながら進めたい場合は、このモードを選ばずに進めてください。
 
-
-
-https://claude.ai/public/artifacts/929dff6e-69e4-469e-ba31-bddee9cda903
-
-<iframe src="https://claude.site/public/artifacts/929dff6e-69e4-469e-ba31-bddee9cda903/embed" title="AIセミナー 感想アンケート" width="100%" height="600" frameborder="0" allow="clipboard-write" allowfullscreen></iframe>
+[アンケート](https://claude.ai/public/artifacts/929dff6e-69e4-469e-ba31-bddee9cda903)
