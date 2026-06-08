@@ -28,8 +28,8 @@
 
 ## 3. Claude in Chrome 拡張をインストール
 
-ブラウザ（Chrome）を Claude から操作したい場合に追加。
-
 [Chrome ウェブストア — Claude](https://chromewebstore.google.com/detail/claude/fcoeoabgfenejglbffodgkkbkcdhcgfn?hl=ja) →「Chrome に追加」。
+
+## 勉強会後
 
 [アンケート](https://claude.ai/public/artifacts/929dff6e-69e4-469e-ba31-bddee9cda903)
